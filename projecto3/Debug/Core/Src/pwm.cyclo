@@ -1,0 +1,2 @@
+../Core/Src/pwm.c:16:1:PWM_init	1
+../Core/Src/pwm.c:27:1:PWM_change_freq_dma	6

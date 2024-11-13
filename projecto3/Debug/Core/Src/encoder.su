@@ -1,0 +1,4 @@
+../Core/Src/encoder.c:13:1:EN_get_value	16	static
+../Core/Src/encoder.c:27:1:EN_button	16	static
+../Core/Src/encoder.c:49:1:EN_fsm_button	24	static
+../Core/Src/encoder.c:124:1:EN_fsm	16	static

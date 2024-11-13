@@ -1,0 +1,17 @@
+../Core/Src/display_analizador.c:40:1:AN_init	24	static
+../Core/Src/display_analizador.c:54:1:AN_send_uart	16	static
+../Core/Src/display_analizador.c:78:1:AN_encoder_setter	16	static
+../Core/Src/display_analizador.c:85:1:AN_button_setter	16	static
+../Core/Src/display_analizador.c:102:1:AN_fft_encoder_fun_setter	4	static
+../Core/Src/display_analizador.c:108:1:AN_fft_update_setter	4	static
+../Core/Src/display_analizador.c:114:1:AN_inputs_reader	24	static
+../Core/Src/display_analizador.c:120:1:AN_config_reader	16	static
+../Core/Src/display_analizador.c:132:1:AN_graph_fft	80	static
+../Core/Src/display_analizador.c:198:1:AN_graph_control	88	static
+../Core/Src/display_analizador.c:236:1:AN_fsm_config	24	static
+../Core/Src/display_analizador.c:333:1:AN_draw_menu	56	static
+../Core/Src/display_analizador.c:476:1:AN_set_cursor	32	static
+../Core/Src/display_analizador.c:503:1:AN_pixel	32	static
+../Core/Src/display_analizador.c:521:1:AN_fft_fast	32	static
+../Core/Src/display_analizador.c:556:1:AN_sim_adc	48	static
+../Core/Src/display_analizador.c:570:1:AN_wrap_value	24	static

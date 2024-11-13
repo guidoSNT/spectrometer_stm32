@@ -1,0 +1,2 @@
+../Core/Src/fft.c:90:1:FFT	72	static
+../Core/Src/fft.c:164:1:FFT_mod	32	static
